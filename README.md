@@ -1,4 +1,4 @@
-# Powered by CrewAI ⚡
+# Companies Powered by CrewAI ⚡
 
 > This repository highlights companies and platforms leveraging **CrewAI** to transform workflows and drive innovation.  
 > We invite companies to contribute their use cases via Pull Requests to share how they're innovating with CrewAI.
