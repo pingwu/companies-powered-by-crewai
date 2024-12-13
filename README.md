@@ -59,7 +59,7 @@ If your industry is not listed, feel free to propose a new one in your PR.
 
 | Company Name                          | Website                               | Description                                   |
 |---------------------------------------|---------------------------------------|-----------------------------------------------|
-| California Science Technology University |  cstu.edu                     |  Use CrewAI to teach Multi-Agent System for Digital Marketing   https://www.linkedin.com/pulse/revolutionizing-education-marketing-how-ai-agents-help-shape-cstus-ty5yc                                             |
+| California Science Technology University |   [cstu.edu](https://cstu.edu)                  |  Use CrewAI to teach [Multi-Agent System for Digital Marketing](https://www.linkedin.com/pulse/revolutionizing-education-marketing-how-ai-agents-help-shape-cstus-ty5yc)                                             |
 
 ### Blockchain
 
